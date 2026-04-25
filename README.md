@@ -27,7 +27,8 @@ This project focuses on analyzing customer churn behavior using Excel. The objec
 
 ## 📷 Dashboard Preview
 
-<img width="1220" height="676" alt="image" src="https://github.com/user-attachments/assets/6b8d0040-91f7-47be-bfb2-d49ca0f9d698" />
+<img width="1217" height="678" alt="image" src="https://github.com/user-attachments/assets/f21a9c16-c460-4093-9964-f513762889d7" />
+
 
 
 ---
